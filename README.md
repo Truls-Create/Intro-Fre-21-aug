@@ -9,7 +9,7 @@ tomt HTML-dokument att börja i.
 ## Nu på fredag
 
 1. Öppna `index.html`.
-2. Byt ut `Din rubrik här` mot ditt eget namn.
+2. Byt ut `Truls Melander` mot ditt eget namn.
 3. Spara med <kbd>Ctrl</kbd> + <kbd>S</kbd>.
 4. **Source Control** i vänsterkanten → `+` på filen → skriv ett meddelande →
    **Commit** → **Sync Changes**.
@@ -43,3 +43,5 @@ den blir din startsida när sajten publiceras.
 
 Guiden **Kom igång** ligger i itslearning. Den tar dig genom varje steg en gång till
 och har en felsökningstabell längst ned.
+
+
